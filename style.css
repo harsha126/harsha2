@@ -27,7 +27,8 @@ p{
 }
 main{
     font-family: "Poppins",sans-serif;
-    min-height: 100vh;;
+    min-height: 100vh;
+    min-width: 100vh;
     background:linear-gradient(to right top,#fff700,#ff0000);
     display: flex;
     align-items: center;
